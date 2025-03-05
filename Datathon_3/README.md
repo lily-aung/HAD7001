@@ -1,42 +1,31 @@
 
-# The Use of Machine Learning to Identify Severity of Chronic Rhinosinusitis using Computed Tomography of Paranasal sinuses
+# Predicting ICU Mortality Using Physiological and Laboratory Data
 
-Group 2: Nway Nway Aung, Daniel Lee, Amirhosein Rostami
+Group 1: Nway Nway Aung (Lily), Josh Plener, Daisy Liu
 
-# HAD7001H Group Project Phase 2 High fidelity
-
-### Research Question 
-
-1. Can deep learning be employed to accurately identify each paranasal sinus in a given paranasal computed tomography (CT) scan?
-2. Can deep learning be employed to predict the radiologic severity of chronic rhinosinusitis, and produce a table that can supplement radiology reports?
+### Background 
 
 <p align="center">
-  <img src="./figures/fig 2.Image-Mask.png"/>
+  <img src="./figures/fig1_Intro.png"/>
 </p> 
 
-### Model
+### RQs
 
 <p align="center">
-  <img src="./figures/fig 3.Unet.png"/>
+  <img src="./figures/fig2_RQs.png"/>
+</p> 
+
+### RQs
+
+<p align="center">
+  <img src="./figures/fig3_Workflow.png"/>
 </p> 
 
 ### Evaluation
 
 <p align="center">
-  <img src="./figures/fig 4.training_vs_validation_accuracy.png"/>
+  <img src="./figures/fig4_Results.png"/>
 </p> 
-
-#### Optimal Prediction
-<p align="center">
-  <img src="./figures/fig 5.Optimal prediction.png"/>
-</p> 
-
-#### Suboptimal prediction Prediction
-<p align="center">
-  <img src="./figures/fig 6.Suboptimal prediction.png"/>
-</p> 
-
-#### Dice score for Sinus region
 <p align="center">
   <img src="./figures/fig 7.Dice score for Sinus region.png"/>
 </p> 
