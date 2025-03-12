@@ -1,7 +1,7 @@
 
 # Health Monitoring: Classifying Physical Activity Intensity Using Wearable Sensors
 
-Group 1: Nway Nway Aung (Lily), Kamyar Kazari, Reagan Reid
+Group 5: Nway Nway Aung (Lily), Kamyar Kazari, Reagan Reid
 
 <p align="center">
   <img src="./figures/fig1_Intro.png"/>
