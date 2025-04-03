@@ -9,4 +9,4 @@ Datathon 3 : Predicting ICU Mortality Using Physiological and Laboratory Data [R
 
 Datathon 4 : Health Monitoring - Classifying Physical Activity Intensity Using Wearable Sensors [README](./Datathon_4/README.md)
 
-Course Project - Phrase 2 : CT_Paranasal-sinuses_Study [README](./CT_Paranasal-sinuses_Study/README.md)
+Course Project - Phrase 3 : CT_Paranasal-sinuses_Study [README](./CT_Paranasal-sinuses_Study/README.md)
