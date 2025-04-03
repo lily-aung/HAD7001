@@ -3,12 +3,16 @@
 
 Group 2: Nway Nway Aung, Daniel Lee, Amirhosein Rostami
 
-# HAD7001H Group Project Phase 2 High fidelity
+<p align="center">
+  <img src="./figures/Phase3/1.png"/>
+</p> 
 
 ### Research Question 
 
-1. Can deep learning be employed to accurately identify each paranasal sinus in a given paranasal computed tomography (CT) scan?
-2. Can deep learning be employed to predict the radiologic severity of chronic rhinosinusitis, and produce a table that can supplement radiology reports?
+<p align="center">
+  <img src="./figures/Phase3/2.png"/>
+</p> 
+
 
 <p align="center">
   <img src="./figures/fig 2.Image-Mask.png"/>
@@ -17,7 +21,11 @@ Group 2: Nway Nway Aung, Daniel Lee, Amirhosein Rostami
 ### Model
 
 <p align="center">
-  <img src="./figures/fig 3.Unet.png"/>
+  <img src="./figures/Phase3/3.png"/>
+</p> 
+
+<p align="center">
+  <img src="./figures/Phase3/4.png"/>
 </p> 
 
 ### Evaluation
@@ -26,17 +34,30 @@ Group 2: Nway Nway Aung, Daniel Lee, Amirhosein Rostami
   <img src="./figures/fig 4.training_vs_validation_accuracy.png"/>
 </p> 
 
-#### Optimal Prediction
-<p align="center">
-  <img src="./figures/fig 5.Optimal prediction.png"/>
-</p> 
-
-#### Suboptimal prediction Prediction
-<p align="center">
-  <img src="./figures/fig 6.Suboptimal prediction.png"/>
-</p> 
-
 #### Dice score for Sinus region
+
 <p align="center">
-  <img src="./figures/fig 7.Dice score for Sinus region.png"/>
+  <img src="./figures/Phase3/5.png"/>
 </p> 
+
+#### Prediction
+<p align="center">
+  <img src="./figures/Phase3/Patient1.gif"/>
+</p> 
+
+<p align="center">
+  <img src="./figures/Phase3/Patient2.gif"/>
+</p> 
+
+<p align="center">
+  <img src="./figures/Phase3/8.png"/>
+</p> 
+
+<p align="center">
+  <img src="./figures/Phase3/9.png"/>
+</p> 
+
+### Report  
+You can access the full report using the links below:  
+- **[Google Doc Report](https://docs.google.com/document/d/1aF5IK5754bi4gZ96DYD7RSq2IwykWmWbpALqD8KPH-M/edit?usp=sharing)**  
+- **[Overleaf Project (LaTeX)](https://www.overleaf.com/read/qsnqbwmrntrd#9499a9)**
