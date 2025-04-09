@@ -59,5 +59,5 @@ Group 2: Nway Nway Aung, Daniel Lee, Amirhosein Rostami
 
 ### Report  
 You can access the full report using the links below:  
-- **[Google Doc Report](https://docs.google.com/document/d/1aF5IK5754bi4gZ96DYD7RSq2IwykWmWbpALqD8KPH-M/edit?usp=sharing)**  
-- **[Overleaf Project (LaTeX)](https://www.overleaf.com/read/qsnqbwmrntrd#9499a9)**
+- **[Google Doc Report](https://docs.google.com/document/d/1sHttOnVUQLHczV6QaMxFujFWgKn0Tjw05K5la5D2PrQ/edit?usp=sharing)**  
+- **[Presentation](https://docs.google.com/presentation/d/1vgvnWRkAmeWUNUXBgqFN8wQwwZjU7mhv/edit?usp=sharing&ouid=112854345595891998973&rtpof=true&sd=true)**
